@@ -37,6 +37,6 @@
   * [Bantuan & Lain-Lain](lumbung/bantuan-and-lain-lain.md)
 * [Penerjemahan \(Legacy\)](penerjemahan/README.md)
   * [Panduan Penerjemahan LibreOffice](penerjemahan/panduan-penerjemahan.md)
-  * [Berkontribusi di Penerjemahan LibreOffice](penerjemahan/kontribusi.md)
+  * [Usulan Kata/Istilah untuk Glosarium](penerjemahan/kontribusi.md)
   * [Glossarium \(Data Legacy\)](penerjemahan/glosarium.md)
 

@@ -1,12 +1,10 @@
-# Berkontribusi di Penerjemahan LibreOffice
+# Usulan Kata/Istilah untuk Glosarium
 
-## Ingin bantu menambahkan kata pada glossarium?
-
-Jika Kamu ingin menambahkan kata pada glossarium, silakan _fork_ repo ini, lalu tambahkan kata-kata baru pada glossarium.txt sesuai format yang telah ada. Lalu buat _pull request_.
-
-Terima kasih :\)
+Lengkapi isian pada formulir pengajuan kosa kata \(tautan ada di bawah\) untuk mengusulkan daftar kata/istilah dalam [Glosarium LibreOffice Indonesia](https://glosarium.libreoffice.id). Sebelum mengajukan usulan kata/istilah, pastikan kata/istilah yang akan Anda tambahkan belum terdapat di Glosarium aktif atau daftar antrean kata/isitilah \(lihat di [https://s.id/katasulit](https://s.id/katasulit)\).
 
 {% hint style="info" %}
-Laman baru Glosarium LibreOffice ID: [https://glosarium.libreoffice.id/](https://glosarium.libreoffice.id/)
+Untuk mengusulkan kata baru, [klik tautan ini.](https://docs.google.com/forms/d/e/1FAIpQLSd9Rmx-n3IJsexHfX2Uu590UziIAgLUtdrCWnx7R3Bc9ld7XQ/viewform)
 {% endhint %}
+
+
 
