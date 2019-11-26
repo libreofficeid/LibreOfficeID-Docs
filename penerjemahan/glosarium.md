@@ -1,4 +1,6 @@
-# Glossarium
+# Glossarium \(Data Legacy\)
+
+Glosarium terkini dapat dikses melalui tautan: [https://glosarium.libreoffice.id/](https://glosarium.libreoffice.id/)
 
 ## A
 

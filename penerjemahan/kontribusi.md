@@ -6,3 +6,7 @@ Jika Kamu ingin menambahkan kata pada glossarium, silakan _fork_ repo ini, lalu 
 
 Terima kasih :\)
 
+{% hint style="info" %}
+Laman baru Glosarium LibreOffice ID: [https://glosarium.libreoffice.id/](https://glosarium.libreoffice.id/)
+{% endhint %}
+
