@@ -35,7 +35,7 @@
   * [Berbagi Sumber Daya](lumbung/berbagi-sumber-daya.md)
   * [Lisensi](lumbung/lisensi.md)
   * [Bantuan & Lain-Lain](lumbung/bantuan-and-lain-lain.md)
-* [Penerjemahan \(Legacy\)](penerjemahan/README.md)
+* [Penerjemahan LibreOffice ID](penerjemahan/README.md)
   * [Panduan Penerjemahan LibreOffice](penerjemahan/panduan-penerjemahan.md)
   * [Usulan Kata/Istilah untuk Glosarium](penerjemahan/kontribusi.md)
   * [Glossarium \(Data Legacy\)](penerjemahan/glosarium.md)

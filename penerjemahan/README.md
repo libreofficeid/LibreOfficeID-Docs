@@ -1,4 +1,4 @@
-# Penerjemahan \(Legacy\)
+# Penerjemahan LibreOffice ID
 
 Dokumentasi ini berisi berkas/dokumen terkait penerjemahan LibreOffice ke Bahasa Indonesia.
 
