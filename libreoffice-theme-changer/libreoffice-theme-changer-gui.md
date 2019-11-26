@@ -1,6 +1,4 @@
-# LibreOffice Theme Changer \(GUI\)
-
-## How to use this extension
+# Build & Install
 
 ### Build Extension
 

@@ -38,12 +38,11 @@ theme-name
     └── screenshot.png
 ```
 
-We'll provide complete guide about step by step to create own LO-TC Theme in other post soon.
-
-\[Update\]
+We've provide complete guide about step by step to create own LO-TC Theme, please refer to link bellow
 
 * LOTC Theme Guide
-  * [ID](https://lumbung.libreoffice.id/materi/panduan-membuat-tema-untuk-lotc/gi%20) 
+  * [English Version](create-own-theme-guideline/)
+  * [Bahasa Indonesia](membuat-tema-lotc/)
 
 Let say your theme already finish, you can import your theme to LO-TC by clicking Import Theme.
 
