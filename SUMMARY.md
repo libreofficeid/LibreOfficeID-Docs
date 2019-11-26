@@ -14,7 +14,7 @@
   * [Build & Install](libreoffice-theme-changer/libreoffice-theme-changer-gui.md)
   * [Interface](libreoffice-theme-changer/interface.md)
   * [Create Own Theme Guideline](libreoffice-theme-changer/create-own-theme-guideline/README.md)
-    * [Initilize Working Directory](libreoffice-theme-changer/create-own-theme-guideline/initilize-working-directory.md)
+    * [Initialize Working Directory](libreoffice-theme-changer/create-own-theme-guideline/initilize-working-directory.md)
     * [Understanding the Directory Hierarchy](libreoffice-theme-changer/create-own-theme-guideline/understanding-the-directory-hierarchy.md)
     * [Preparing Image Assets](libreoffice-theme-changer/create-own-theme-guideline/preparing-image-assets.md)
     * [Preparing Configuration File](libreoffice-theme-changer/create-own-theme-guideline/preparing-configuration-file.md)

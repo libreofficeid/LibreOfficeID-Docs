@@ -1,4 +1,4 @@
-# Initilize Working Directory
+# Initialize Working Directory
 
 To create a LOTC template, please open the Theme Changer extension via the Tools menu -&gt; Add-ons -&gt; Theme Changer.
 

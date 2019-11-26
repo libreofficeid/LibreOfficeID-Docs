@@ -12,3 +12,10 @@ Kumpulan dokumentasi \(sebagian besar adalah README\) dari proyek, layanan, dan 
 * [Glosarium](https://glosarium.libreoffice.id/)
 * [Lumbung](https://lumbung.libreoffice.id/)
 
+#### Sosial Media
+
+* Twitter:  [@libreOfficeID](https://twitter.com/libreofficeid)
+* Instagram: [@libreofficeid](https://www.instagram.com/libreofficeid/) 
+* [Youtube](https://www.youtube.com/channel/UCBgSzRofowjVhsK-D92TFmg)
+* Surel: [humas@libreoffice.id](mailto:humas@libreoffice.id)
+
