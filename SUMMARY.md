@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LibreOffice ID -Docs](README.md)
+* [Dokumentasi LibreOffice ID](README.md)
 * [LIbreOffice Theme Changer \(CLI\)](libreoffice-theme/README.md)
   * [LOTC-CLI GUIDE \(EN\)](libreoffice-theme/lotc-cli-guide-en/README.md)
     * [Themes Instalation](libreoffice-theme/lotc-cli-guide-en/themes-instalation.md)

@@ -1,4 +1,4 @@
-# LibreOffice ID -Docs
+# Dokumentasi LibreOffice ID
 
 Kumpulan dokumentasi \(sebagian besar adalah README\) dari proyek, layanan, dan panduan dari Komunitas LibreOffice Indonesia. Mengapa memilih Gitbook? Model penulisan di layanan Gitbook ini sangatlah mudah bahkan untuk pengguna awam sekalipun. Dengan demikian, semoga dapat memudahkan siapa saja yang ingin ikut berkontribusi menulis dokumentasi.
 
