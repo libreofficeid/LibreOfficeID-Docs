@@ -17,6 +17,12 @@ make zip
 
 we have special command `make all` to everyone who wanna help us to develop this extension. This command used if you have make some update to python code, and wanna to show the update directly on your LibreOffice without re-install extension via Extension Manager. Just run `make all` then restart the LibreOffice.
 
+{% hint style="info" %}
+Some operating system doesn't provide **python3-uno** package/library which is needed to run LOTC. Please make sure that this library already installed on your system before running LOTC.
+{% endhint %}
+
+\`\`
+
 ### Extension Installation
 
 Just like other extension, you only need to import this extension via menu: Tools -&gt; Extension Manager, then add extension. LibreOffice should restart after new extension installation.
