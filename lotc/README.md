@@ -28,7 +28,7 @@ The target of LO-TC Development mainly is for LibreOffice 6.2 or newer. LibreOff
   * [x] Compile from source
   * [x] Flatpak
   * [x] Snap
-  * [ ] AppImage
+  * [ ] AppImage \(is it needed? We still not sure to supporting LOTC in Appimage or maybe later\)
 * Mac OS
   * [x] Mac OS
 * Windows
