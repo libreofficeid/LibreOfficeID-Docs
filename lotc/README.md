@@ -6,19 +6,19 @@ Extension to manage LibreOffice Theme. This extension is based on [LibreOffice T
 
 ## Target
 
-#### Starting Point
+### Starting Point
 
 * [x] Wireframe and concept
 * [x] UI Development
 
-#### Manage theme for LibreOffice 6.x
+### Manage theme for LibreOffice 6.x
 
 * [x] Import Theme \(we will use \*.lotc as theme format\)
 * [x] Apply theme to LibreOffice 6.x
 * [x] Remove imported theme from LO-TC list
 * [x] Create own theme
 
-#### Current Support
+### Current Support
 
 The target of LO-TC Development mainly is for LibreOffice 6.2 or newer. LibreOffice available in various package or instalation method, especially for Linux. So, we make some priority stage.
 
