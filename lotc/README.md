@@ -27,10 +27,10 @@ The target of LO-TC Development mainly is for LibreOffice 6.2 or newer. LibreOff
   * [x] Install from DEB/RPM package \(from web\)
   * [x] Compile from source
   * [x] Flatpak
-  * [ ] Snap
+  * [x] Snap
   * [ ] AppImage
 * Mac OS
-  * [ ] Mac OS \(On Progress\)
+  * [x] Mac OS
 * Windows
-  * [ ] Windows 8/8.1/10
+  * [x] Windows 7/8/8.1/10
 
