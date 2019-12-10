@@ -5,8 +5,8 @@
 ## Agenda LibreOffice ID
 
 * [Daftar Agenda LibreOffice ID](agenda-libreoffice-id/daftar-agenda-libreoffice-id/README.md)
-  * [2019](agenda-libreoffice-id/daftar-agenda-libreoffice-id/2019.md)
   * [2018](agenda-libreoffice-id/daftar-agenda-libreoffice-id/2018.md)
+  * [2019](agenda-libreoffice-id/daftar-agenda-libreoffice-id/2019.md)
 
 ## LibreOffice Theme Changer
 
