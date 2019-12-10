@@ -40,3 +40,7 @@
   * [Usulan Kata/Istilah untuk Glosarium](penerjemahan/kontribusi.md)
   * [Glossarium \(Data Legacy\)](penerjemahan/glosarium.md)
 
+## Agenda LibreOffice ID
+
+* [2020](agenda-libreoffice-id/2020.md)
+
