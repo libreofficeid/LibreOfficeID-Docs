@@ -2,11 +2,11 @@
 
 ### LO-TC Interface
 
-![Main Dialog](../.gitbook/assets/lotc-1%20%281%29.png)
+![Main Dialog](../../.gitbook/assets/lotc-1%20%281%29.png)
 
 This is main dialog of LO-TC. All of imported theme will listed at white area. Green Mark indicate that the theme is active or used now. To see the details of each theme, just click the theme name, and detail of theme will appear. Look at picture.
 
-![Detail of Theme](../.gitbook/assets/lotc-4%20%281%29.png)
+![Detail of Theme](../../.gitbook/assets/lotc-4%20%281%29.png)
 
 Click Activate if you wanna apply this theme, or Remove to remove this theme from LO-TC list.
 
@@ -14,7 +14,7 @@ LO-TC can help you to creat your own theme. We use `*.lotc` as main format for L
 
 Please complete the required data as you see at this dialog, including Author Name, Theme Name, and path to save your directory theme.
 
-![Create Own Theme Dialog](../.gitbook/assets/lotc-2%20%281%29.png)
+![Create Own Theme Dialog](../../.gitbook/assets/lotc-2%20%281%29.png)
 
 Click Create button, to finish this step. Please go to path where your theme saved. Your next task is completing that directory so look like this tree. Don't forget to add several information about your theme into manifest.xml file.
 
@@ -46,7 +46,7 @@ Let say your theme already finish, you can import your theme to LO-TC by clickin
 
 , navigate the file manager to directory where the lotc file saved. If the import success, your new theme will listed in main dialog.
 
-![Import Theme Dialog](../.gitbook/assets/lotc-3.png)
+![Import Theme Dialog](../../.gitbook/assets/lotc-3.png)
 
 #### 
 
