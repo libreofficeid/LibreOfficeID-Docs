@@ -40,6 +40,12 @@
     * [Memasang Tema](libreoffice-theme-changer/libreoffice-theme/readme-id/memasang-tema.md)
     * [Membuat Tema Sendiri](libreoffice-theme-changer/libreoffice-theme/readme-id/membuat-tema-sendiri.md)
     * [Ikut Terlibat & Sangkalan](libreoffice-theme-changer/libreoffice-theme/readme-id/ikut-terlibat-and-sangkalan.md)
+* [Workflow](libreoffice-theme-changer/workflow/README.md)
+  * [Linux \(General\)](libreoffice-theme-changer/workflow/linux-general.md)
+  * [Linux \(Flatpak\)](libreoffice-theme-changer/workflow/linux-flatpak.md)
+  * [Linux \(Snap\)](libreoffice-theme-changer/workflow/linux-snap.md)
+  * [Mac OSX](libreoffice-theme-changer/workflow/mac-osx.md)
+  * [Windows](libreoffice-theme-changer/workflow/windows.md)
 
 ## Penerjemahan & Perkakas Terjemahan
 
